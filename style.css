@@ -1,0 +1,83 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #282c35;
+    color: #fff;
+    margin: 0;
+    padding: 0;
+}
+
+h1 {
+    color: #61dafb;
+}
+
+p {
+    color: #bbb;
+}
+
+#carbon-form {
+    max-width: 600px;
+    margin: 20px auto;
+    background-color: #333;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.3);
+}
+
+fieldset {
+    border: 1px solid #555;
+    padding: 10px;
+    margin-bottom: 15px;
+    border-radius: 5px;
+}
+
+label {
+    display: block;
+    margin-bottom: 8px;
+    color: #bbb;
+}
+
+input, select {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #444;
+    border-radius: 5px;
+    box-sizing: border-box;
+    background-color: #444;
+    color: #fff;
+}
+
+.checkbox-group {
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+button {
+    background-color: #61dafb;
+    color: #fff;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #4fa3cc;
+}
+
+#result {
+    margin-top: 20px;
+    font-size: 18px;
+    color: #bbb;
+    text-align: center;
+}
+
+#suggestion{
+    margin-top: 20px;
+    font-size: 18px;
+    color: #bbb;
+    text-align: center;
+    margin-bott: 0 ;
+}

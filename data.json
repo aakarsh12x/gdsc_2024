@@ -1,0 +1,1017 @@
+[
+  {
+    "country": "India",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.91,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.81
+  },
+  {
+    "country": "China",
+    "carbonFootprintByCountry_co2PerCapita2022": 8.85,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.9
+  },
+  {
+    "country": "United States",
+    "carbonFootprintByCountry_co2PerCapita2022": 14.44,
+    "carbonFootprintByCountry_co2PerCapita2021": 14.29
+  },
+  {
+    "country": "Indonesia",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.5,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.23
+  },
+  {
+    "country": "Pakistan",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.92,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.02
+  },
+  {
+    "country": "Nigeria",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.57,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.58
+  },
+  {
+    "country": "Brazil",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.15,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.34
+  },
+  {
+    "country": "Bangladesh",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.63,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.61
+  },
+  {
+    "country": "Russia",
+    "carbonFootprintByCountry_co2PerCapita2022": 13.31,
+    "carbonFootprintByCountry_co2PerCapita2021": 13.46
+  },
+  {
+    "country": "Ethiopia",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.18,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.18
+  },
+  {
+    "country": "Mexico",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.56,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.26
+  },
+  {
+    "country": "Japan",
+    "carbonFootprintByCountry_co2PerCapita2022": 8.61,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.53
+  },
+  {
+    "country": "Philippines",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.38,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.31
+  },
+  {
+    "country": "Egypt",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.5,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.38
+  },
+  {
+    "country": "DR Congo",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.04,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.04
+  },
+  {
+    "country": "Vietnam",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.27,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.4
+  },
+  {
+    "country": "Iran",
+    "carbonFootprintByCountry_co2PerCapita2022": 8.08,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.04
+  },
+  {
+    "country": "Turkey",
+    "carbonFootprintByCountry_co2PerCapita2022": 5.66,
+    "carbonFootprintByCountry_co2PerCapita2021": 5.52
+  },
+  {
+    "country": "Germany",
+    "carbonFootprintByCountry_co2PerCapita2022": 8.16,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.22
+  },
+  {
+    "country": "Thailand",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.06,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.98
+  },
+  {
+    "country": "Tanzania",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.25,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.26
+  },
+  {
+    "country": "United Kingdom",
+    "carbonFootprintByCountry_co2PerCapita2022": 5,
+    "carbonFootprintByCountry_co2PerCapita2021": 5.01
+  },
+  {
+    "country": "France",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.76,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.92
+  },
+  {
+    "country": "South Africa",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.75,
+    "carbonFootprintByCountry_co2PerCapita2021": 7.06
+  },
+  {
+    "country": "Italy",
+    "carbonFootprintByCountry_co2PerCapita2022": 5.48,
+    "carbonFootprintByCountry_co2PerCapita2021": 5.43
+  },
+  {
+    "country": "Kenya",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.38,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.38
+  },
+  {
+    "country": "Myanmar",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.67,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.67
+  },
+  {
+    "country": "Colombia",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.74,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.67
+  },
+  {
+    "country": "South Korea",
+    "carbonFootprintByCountry_co2PerCapita2022": 12.26,
+    "carbonFootprintByCountry_co2PerCapita2021": 12.44
+  },
+  {
+    "country": "Uganda",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.15,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.15
+  },
+  {
+    "country": "Sudan",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.4,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.41
+  },
+  {
+    "country": "Spain",
+    "carbonFootprintByCountry_co2PerCapita2022": 5.48,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.98
+  },
+  {
+    "country": "Iraq",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.43,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.22
+  },
+  {
+    "country": "Algeria",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.97,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.07
+  },
+  {
+    "country": "Argentina",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.97,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.95
+  },
+  {
+    "country": "Afghanistan",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.14,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.14
+  },
+  {
+    "country": "Poland",
+    "carbonFootprintByCountry_co2PerCapita2022": 8.53,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.65
+  },
+  {
+    "country": "Canada",
+    "carbonFootprintByCountry_co2PerCapita2022": 15.22,
+    "carbonFootprintByCountry_co2PerCapita2021": 14.82
+  },
+  {
+    "country": "Morocco",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.92,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.02
+  },
+  {
+    "country": "Ukraine",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.07,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.16
+  },
+  {
+    "country": "Angola",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.58,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.64
+  },
+  {
+    "country": "Saudi Arabia",
+    "carbonFootprintByCountry_co2PerCapita2022": 16.98,
+    "carbonFootprintByCountry_co2PerCapita2021": 16.75
+  },
+  {
+    "country": "Uzbekistan",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.89,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.8
+  },
+  {
+    "country": "Yemen",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.39,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.4
+  },
+  {
+    "country": "Mozambique",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.29,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.27
+  },
+  {
+    "country": "Ghana",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.76,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.77
+  },
+  {
+    "country": "Peru",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.81,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.65
+  },
+  {
+    "country": "Malaysia",
+    "carbonFootprintByCountry_co2PerCapita2022": 8.23,
+    "carbonFootprintByCountry_co2PerCapita2021": 7.83
+  },
+  {
+    "country": "Nepal",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.51,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.51
+  },
+  {
+    "country": "Madagascar",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.11,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.11
+  },
+  {
+    "country": "Ivory Coast",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.53,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.53
+  },
+  {
+    "country": "Venezuela",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.86,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.63
+  },
+  {
+    "country": "Cameroon",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.37,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.4
+  },
+  {
+    "country": "Niger",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.1,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.1
+  },
+  {
+    "country": "Australia",
+    "carbonFootprintByCountry_co2PerCapita2022": 15.12,
+    "carbonFootprintByCountry_co2PerCapita2021": 15.1
+  },
+  {
+    "country": "North Korea",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.09,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.11
+  },
+  {
+    "country": "Syria",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.38,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.39
+  },
+  {
+    "country": "Mali",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.31,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.31
+  },
+  {
+    "country": "Taiwan",
+    "carbonFootprintByCountry_co2PerCapita2022": 11.52,
+    "carbonFootprintByCountry_co2PerCapita2021": 12.09
+  },
+  {
+    "country": "Burkina Faso",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.26,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.26
+  },
+  {
+    "country": "Sri Lanka",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.87,
+    "carbonFootprintByCountry_co2PerCapita2021": 1
+  },
+  {
+    "country": "Malawi",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.26,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.25
+  },
+  {
+    "country": "Zambia",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.47,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.46
+  },
+  {
+    "country": "Kazakhstan",
+    "carbonFootprintByCountry_co2PerCapita2022": 12.85,
+    "carbonFootprintByCountry_co2PerCapita2021": 12.41
+  },
+  {
+    "country": "Chile",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.96,
+    "carbonFootprintByCountry_co2PerCapita2021": 5.27
+  },
+  {
+    "country": "Romania",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.03,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.15
+  },
+  {
+    "country": "Chad",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.12,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.13
+  },
+  {
+    "country": "Somalia",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.06,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.06
+  },
+  {
+    "country": "Ecuador",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.59,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.45
+  },
+  {
+    "country": "Guatemala",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.08,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.1
+  },
+  {
+    "country": "Senegal",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.67,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.66
+  },
+  {
+    "country": "Netherlands",
+    "carbonFootprintByCountry_co2PerCapita2022": 7.79,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.39
+  },
+  {
+    "country": "Cambodia",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.03,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.03
+  },
+  {
+    "country": "Zimbabwe",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.55,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.53
+  },
+  {
+    "country": "Guinea",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.26,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.26
+  },
+  {
+    "country": "Rwanda",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.12,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.12
+  },
+  {
+    "country": "Benin",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.75,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.75
+  },
+  {
+    "country": "Burundi",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.07,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.07
+  },
+  {
+    "country": "Bolivia",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.85,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.87
+  },
+  {
+    "country": "Tunisia",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.96,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.92
+  },
+  {
+    "country": "Haiti",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.3,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.29
+  },
+  {
+    "country": "Belgium",
+    "carbonFootprintByCountry_co2PerCapita2022": 7.72,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.33
+  },
+  {
+    "country": "Dominican Republic",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.07,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.07
+  },
+  {
+    "country": "Jordan",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.27,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.23
+  },
+  {
+    "country": "Cuba",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.15,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.1
+  },
+  {
+    "country": "Honduras",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.06,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.02
+  },
+  {
+    "country": "Sweden",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.69,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.73
+  },
+  {
+    "country": "Papua New Guinea",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.52,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.52
+  },
+  {
+    "country": "Czech Republic",
+    "carbonFootprintByCountry_co2PerCapita2022": 9.55,
+    "carbonFootprintByCountry_co2PerCapita2021": 9.43
+  },
+  {
+    "country": "Azerbaijan",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.62,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.65
+  },
+  {
+    "country": "Tajikistan",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.07,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.08
+  },
+  {
+    "country": "Greece",
+    "carbonFootprintByCountry_co2PerCapita2022": 5.14,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.89
+  },
+  {
+    "country": "Portugal",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.07,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.88
+  },
+  {
+    "country": "Hungary",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.95,
+    "carbonFootprintByCountry_co2PerCapita2021": 5.37
+  },
+  {
+    "country": "United Arab Emirates",
+    "carbonFootprintByCountry_co2PerCapita2022": 21.75,
+    "carbonFootprintByCountry_co2PerCapita2021": 21.58
+  },
+  {
+    "country": "Belarus",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.12,
+    "carbonFootprintByCountry_co2PerCapita2021": 6.35
+  },
+  {
+    "country": "Israel",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.24,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.16
+  },
+  {
+    "country": "Togo",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.28,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.28
+  },
+  {
+    "country": "Sierra Leone",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.13,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.13
+  },
+  {
+    "country": "Austria",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.94,
+    "carbonFootprintByCountry_co2PerCapita2021": 7.45
+  },
+  {
+    "country": "Switzerland",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.11,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.19
+  },
+  {
+    "country": "Laos",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.74,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.78
+  },
+  {
+    "country": "Hong Kong",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.24,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.53
+  },
+  {
+    "country": "Nicaragua",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.88,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.84
+  },
+  {
+    "country": "Libya",
+    "carbonFootprintByCountry_co2PerCapita2022": 9.2,
+    "carbonFootprintByCountry_co2PerCapita2021": 9.33
+  },
+  {
+    "country": "Paraguay",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.37,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.39
+  },
+  {
+    "country": "Kyrgyzstan",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.6,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.59
+  },
+  {
+    "country": "Bulgaria",
+    "carbonFootprintByCountry_co2PerCapita2022": 7.32,
+    "carbonFootprintByCountry_co2PerCapita2021": 6.64
+  },
+  {
+    "country": "Turkmenistan",
+    "carbonFootprintByCountry_co2PerCapita2022": 11.27,
+    "carbonFootprintByCountry_co2PerCapita2021": 11.22
+  },
+  {
+    "country": "El Salvador",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.22,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.16
+  },
+  {
+    "country": "Singapore",
+    "carbonFootprintByCountry_co2PerCapita2022": 8.85,
+    "carbonFootprintByCountry_co2PerCapita2021": 9.19
+  },
+  {
+    "country": "Denmark",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.99,
+    "carbonFootprintByCountry_co2PerCapita2021": 5.25
+  },
+  {
+    "country": "Central African Republic",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.05,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.06
+  },
+  {
+    "country": "Slovakia",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.46,
+    "carbonFootprintByCountry_co2PerCapita2021": 6.65
+  },
+  {
+    "country": "Finland",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.64,
+    "carbonFootprintByCountry_co2PerCapita2021": 6.98
+  },
+  {
+    "country": "Liberia",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.3,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.3
+  },
+  {
+    "country": "Norway",
+    "carbonFootprintByCountry_co2PerCapita2022": 7.62,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.04
+  },
+  {
+    "country": "New Zealand",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.58,
+    "carbonFootprintByCountry_co2PerCapita2021": 7.09
+  },
+  {
+    "country": "Costa Rica",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.68,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.6
+  },
+  {
+    "country": "Lebanon",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.05,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.82
+  },
+  {
+    "country": "Ireland",
+    "carbonFootprintByCountry_co2PerCapita2022": 7.61,
+    "carbonFootprintByCountry_co2PerCapita2021": 7.34
+  },
+  {
+    "country": "Mauritania",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.92,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.9
+  },
+  {
+    "country": "Oman",
+    "carbonFootprintByCountry_co2PerCapita2022": 17.09,
+    "carbonFootprintByCountry_co2PerCapita2021": 16.88
+  },
+  {
+    "country": "Panama",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.58,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.5
+  },
+  {
+    "country": "Kuwait",
+    "carbonFootprintByCountry_co2PerCapita2022": 24.9,
+    "carbonFootprintByCountry_co2PerCapita2021": 23.59
+  },
+  {
+    "country": "Croatia",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.23,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.16
+  },
+  {
+    "country": "Eritrea",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.14,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.14
+  },
+  {
+    "country": "Georgia",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.1,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.07
+  },
+  {
+    "country": "Mongolia",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.71,
+    "carbonFootprintByCountry_co2PerCapita2021": 6.82
+  },
+  {
+    "country": "Uruguay",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.43,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.43
+  },
+  {
+    "country": "Moldova",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.17,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.3
+  },
+  {
+    "country": "Puerto Rico",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.47,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.53
+  },
+  {
+    "country": "Bosnia and Herzegovina",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.26,
+    "carbonFootprintByCountry_co2PerCapita2021": 6.24
+  },
+  {
+    "country": "Gambia",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.25,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.25
+  },
+  {
+    "country": "Albania",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.52,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.48
+  },
+  {
+    "country": "Jamaica",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.08,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.09
+  },
+  {
+    "country": "Armenia",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.15,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.36
+  },
+  {
+    "country": "Qatar",
+    "carbonFootprintByCountry_co2PerCapita2022": 35.52,
+    "carbonFootprintByCountry_co2PerCapita2021": 37.52
+  },
+  {
+    "country": "Botswana",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.29,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.74
+  },
+  {
+    "country": "Lithuania",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.69,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.95
+  },
+  {
+    "country": "Namibia",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.53,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.43
+  },
+  {
+    "country": "Gabon",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.46,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.55
+  },
+  {
+    "country": "Lesotho",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.33,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.3
+  },
+  {
+    "country": "Guinea-Bissau",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.17,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.16
+  },
+  {
+    "country": "Slovenia",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.7,
+    "carbonFootprintByCountry_co2PerCapita2021": 6.86
+  },
+  {
+    "country": "North Macedonia",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.99,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.99
+  },
+  {
+    "country": "Latvia",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.61,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.86
+  },
+  {
+    "country": "Equatorial Guinea",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.37,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.84
+  },
+  {
+    "country": "Trinidad and Tobago",
+    "carbonFootprintByCountry_co2PerCapita2022": 21.17,
+    "carbonFootprintByCountry_co2PerCapita2021": 21.21
+  },
+  {
+    "country": "Bahrain",
+    "carbonFootprintByCountry_co2PerCapita2022": 21.31,
+    "carbonFootprintByCountry_co2PerCapita2021": 21.69
+  },
+  {
+    "country": "Timor-Leste",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.4,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.39
+  },
+  {
+    "country": "Estonia",
+    "carbonFootprintByCountry_co2PerCapita2022": 8.39,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.97
+  },
+  {
+    "country": "Mauritius",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.35,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.16
+  },
+  {
+    "country": "Cyprus",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.1,
+    "carbonFootprintByCountry_co2PerCapita2021": 6.11
+  },
+  {
+    "country": "Eswatini",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.91,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.81
+  },
+  {
+    "country": "Djibouti",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.74,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.74
+  },
+  {
+    "country": "Reunion",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.01,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.94
+  },
+  {
+    "country": "Fiji",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.81,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.78
+  },
+  {
+    "country": "Comoros",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.38,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.38
+  },
+  {
+    "country": "Guyana",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.76,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.71
+  },
+  {
+    "country": "Bhutan",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.01,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.01
+  },
+  {
+    "country": "Solomon Islands",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.47,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.47
+  },
+  {
+    "country": "Luxembourg",
+    "carbonFootprintByCountry_co2PerCapita2022": 12.26,
+    "carbonFootprintByCountry_co2PerCapita2021": 14.12
+  },
+  {
+    "country": "Suriname",
+    "carbonFootprintByCountry_co2PerCapita2022": 5.6,
+    "carbonFootprintByCountry_co2PerCapita2021": 5.63
+  },
+  {
+    "country": "Cape Verde",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.74,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.69
+  },
+  {
+    "country": "Western Sahara",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.39,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.39
+  },
+  {
+    "country": "Malta",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.93,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.84
+  },
+  {
+    "country": "Maldives",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.62,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.58
+  },
+  {
+    "country": "Brunei",
+    "carbonFootprintByCountry_co2PerCapita2022": 20.65,
+    "carbonFootprintByCountry_co2PerCapita2021": 21.85
+  },
+  {
+    "country": "Belize",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.65,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.63
+  },
+  {
+    "country": "Bahamas",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.49,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.39
+  },
+  {
+    "country": "Guadeloupe",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.02,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.96
+  },
+  {
+    "country": "Iceland",
+    "carbonFootprintByCountry_co2PerCapita2022": 10.23,
+    "carbonFootprintByCountry_co2PerCapita2021": 8.9
+  },
+  {
+    "country": "Martinique",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.34,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.25
+  },
+  {
+    "country": "Vanuatu",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.71,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.71
+  },
+  {
+    "country": "French Guiana",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.11,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.14
+  },
+  {
+    "country": "French Polynesia",
+    "carbonFootprintByCountry_co2PerCapita2022": 3.25,
+    "carbonFootprintByCountry_co2PerCapita2021": 3.19
+  },
+  {
+    "country": "New Caledonia",
+    "carbonFootprintByCountry_co2PerCapita2022": 18.24,
+    "carbonFootprintByCountry_co2PerCapita2021": 18.29
+  },
+  {
+    "country": "Barbados",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.34,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.26
+  },
+  {
+    "country": "Sao Tome and Principe",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.7,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.76
+  },
+  {
+    "country": "Samoa",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.75,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.72
+  },
+  {
+    "country": "Curacao",
+    "carbonFootprintByCountry_co2PerCapita2022": 12.41,
+    "carbonFootprintByCountry_co2PerCapita2021": 12.05
+  },
+  {
+    "country": "Saint Lucia",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.39,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.35
+  },
+  {
+    "country": "Kiribati",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.59,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.58
+  },
+  {
+    "country": "Grenada",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.1,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.08
+  },
+  {
+    "country": "Tonga",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.48,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.46
+  },
+  {
+    "country": "Seychelles",
+    "carbonFootprintByCountry_co2PerCapita2022": 11.29,
+    "carbonFootprintByCountry_co2PerCapita2021": 11.08
+  },
+  {
+    "country": "Aruba",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.25,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.09
+  },
+  {
+    "country": "Saint Vincent and the Grenadines",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.75,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.72
+  },
+  {
+    "country": "Antigua and Barbuda",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.59,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.52
+  },
+  {
+    "country": "Dominica",
+    "carbonFootprintByCountry_co2PerCapita2022": 0.92,
+    "carbonFootprintByCountry_co2PerCapita2021": 0.87
+  },
+  {
+    "country": "Cayman Islands",
+    "carbonFootprintByCountry_co2PerCapita2022": 4.73,
+    "carbonFootprintByCountry_co2PerCapita2021": 4.55
+  },
+  {
+    "country": "Bermuda",
+    "carbonFootprintByCountry_co2PerCapita2022": 5.29,
+    "carbonFootprintByCountry_co2PerCapita2021": 5.09
+  },
+  {
+    "country": "Greenland",
+    "carbonFootprintByCountry_co2PerCapita2022": 8.17,
+    "carbonFootprintByCountry_co2PerCapita2021": 7.71
+  },
+  {
+    "country": "Saint Kitts and Nevis",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.76,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.69
+  },
+  {
+    "country": "Turks and Caicos Islands",
+    "carbonFootprintByCountry_co2PerCapita2022": 2.33,
+    "carbonFootprintByCountry_co2PerCapita2021": 2.3
+  },
+  {
+    "country": "Gibraltar",
+    "carbonFootprintByCountry_co2PerCapita2022": 18.96,
+    "carbonFootprintByCountry_co2PerCapita2021": 18.3
+  },
+  {
+    "country": "British Virgin Islands",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.96,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.89
+  },
+  {
+    "country": "Palau",
+    "carbonFootprintByCountry_co2PerCapita2022": 59,
+    "carbonFootprintByCountry_co2PerCapita2021": 60.4
+  },
+  {
+    "country": "Cook Islands",
+    "carbonFootprintByCountry_co2PerCapita2022": 6.34,
+    "carbonFootprintByCountry_co2PerCapita2021": 6.2
+  },
+  {
+    "country": "Anguilla",
+    "carbonFootprintByCountry_co2PerCapita2022": 1.52,
+    "carbonFootprintByCountry_co2PerCapita2021": 1.47
+  },
+  {
+    "country": "Saint Pierre and Miquelon",
+    "carbonFootprintByCountry_co2PerCapita2022": 5.3,
+    "carbonFootprintByCountry_co2PerCapita2021": 5.38
+  },
+  {
+    "country": "Falkland Islands",
+    "carbonFootprintByCountry_co2PerCapita2022": 7.26,
+    "carbonFootprintByCountry_co2PerCapita2021": 7.25
+  }
+]
